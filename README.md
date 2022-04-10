@@ -1,10 +1,10 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/murilo-marques-b42760115/">
+<a href="https://www.linkedin.com/in/dailan-bueno-b0b955b7/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:murilommms@gmail.com">
+<a href="mailto:daylansantos@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
