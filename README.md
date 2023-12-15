@@ -11,23 +11,27 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Full-stack developer** with a bachelor's degree in information systems. </br> </br>
-👨🏼‍💻 I love learning and sharing knowledge about programming. </br></br>
+💻 I’m a **Software engieer** with a degree in System analysis and development. </br> </br>
+👨🏼‍💻 I love learning and sharing programming knowledge. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
- <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+ <b><i>I truly believe that technology and software development have the power to change people's lives for the better. 
     
 <br/>
 <hr />
-
 <div align="center">
   <a href="https://github.com/daylanbueno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daylanbueno&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylanbueno&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
-## ⚡ Technologies I love and use
-  
+## ⚡ My youtube chanal
+ <a href="https://www.youtube.com/channel/UC-848xOkvCrUA_Jwy71ApWA">
+    <img src="https://img.icons8.com/fluency/48/000000/youtube.png" alt="YouTube Channel" />
+ </a>
+<hr />
+
+## ⚡ Technologies I love and use  
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
