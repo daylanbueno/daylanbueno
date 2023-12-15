@@ -11,7 +11,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Software engieer** with a degree in System analysis and development. </br> </br>
+💻 I’m a **Software engineer** with a degree in System analysis and development. </br> </br>
 👨🏼‍💻 I love learning and sharing programming knowledge. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
